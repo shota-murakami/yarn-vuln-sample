@@ -1,0 +1,16 @@
+{
+  "name": "yarn-vuln-sample",
+  "version": "1.0.0",
+  "description": "yamory scan sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "react-router": "^5.2.0"
+  }
+}
